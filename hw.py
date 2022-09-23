@@ -43,7 +43,7 @@ def doInstruction(duration, lwv, rwv, currXPos, currYPos, currTheta, x, y, time=
 
 
 def problem1():
-    print("starting problem1")
+    print("starting problem 1")
     x = [0]
     y = [0]
 
@@ -95,7 +95,7 @@ def forward500():
 
 # problem 2
 def problem2():
-    print("starting problem2")
+    print("starting problem 2")
     width = .3
     x = [0]
     y = [0]
