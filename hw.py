@@ -56,7 +56,7 @@ def problem1():
     # section 1
     duration = 5
     lwv = 1
-    rwv = 2
+    rwv = 1.5
     currXPos, currYPos, currTheta, x, y, theta, time = doInstruction(duration, lwv, rwv, currXPos, currYPos, currTheta, x, y)
 
     # section 2
@@ -71,7 +71,7 @@ def problem1():
     rwv = -2
     currXPos, currYPos, currTheta, x, y, theta, time = doInstruction(duration, lwv, rwv, currXPos, currYPos, currTheta, x, y)
 
-    # section 4
+    # # section 4
     duration = 10
     lwv = 2
     rwv = 2
